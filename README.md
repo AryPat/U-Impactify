@@ -63,6 +63,8 @@
 
 <br/>
 
+<br/>
+
 ### Built With
 
 * [MongoDB](https://www.mongodb.com/)
@@ -81,11 +83,33 @@
 
 ### Features
 
-- Asessments / Courses / Grading
-- Survey / Rating
-- Hiring / Finding Opportunities
-- Real-time Chat
-- Giving Garden / Social Initiatives
+- ##### Asessments / Courses / Grading
+
+<p align="center">
+    <img src="readme_imgs/analytics.PNG" alt="Logo">
+
+- ##### Survey / Rating
+
+<p align="center">
+    <img src="readme_imgs/reviews.PNG" alt="Logo">
+
+- ##### Hiring / Finding Opportunities
+
+<p align="center">
+    <img src="readme_imgs/volopp.PNG" alt="Logo">
+
+<p align="center">
+    <img src="readme_imgs/oppoverview.PNG" alt="Logo">
+
+- ##### Real-time Chat
+
+<p align="center">
+    <img src="readme_imgs/chat.PNG" alt="Logo">
+
+- ##### Giving Garden / Social Initiatives
+
+<p align="center">
+    <img src="readme_imgs/giving garden.PNG" alt="Logo">
 
 <!-- GETTING STARTED -->
 
