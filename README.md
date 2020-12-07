@@ -36,7 +36,15 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
         <ul>
-        <li><a href="#features">Features</a></li>
+        <li><a href="#features">Features</a>
+            <ul>
+        		<li><a href="#asessments-/-courses-/-grading">Asessments / Courses / Grading</a></li>
+                <li><a href="#survey-/-rating">Survey / Rating</a></li>
+                <li><a href="#hiring-/-finding-opportunities">Hiring / Finding Opportunities</a></li>
+                <li><a href="#real-time-chat">Real-Time Chat</a></li>
+                <li><a href="#giving-garden-/-social-initiatives">Giving Garden / Social Initiatives</a></li>
+      		</ul>
+                </li>
       </ul>
     </li>
       <li><a href="#Deployment">Deployment</a></li>
@@ -83,17 +91,17 @@
 
 ### Features
 
-- ##### Asessments / Courses / Grading
+- #### Asessments / Courses / Grading
 
 <p align="center">
     <img src="readme_imgs/analytics.PNG" alt="Logo">
 
-- ##### Survey / Rating
+- #### Survey / Rating
 
 <p align="center">
     <img src="readme_imgs/reviews.PNG" alt="Logo">
 
-- ##### Hiring / Finding Opportunities
+- #### Hiring / Finding Opportunities
 
 <p align="center">
     <img src="readme_imgs/volopp.PNG" alt="Logo">
@@ -101,12 +109,12 @@
 <p align="center">
     <img src="readme_imgs/oppoverview.PNG" alt="Logo">
 
-- ##### Real-time Chat
+- #### Real-Time Chat
 
 <p align="center">
-    <img src="readme_imgs/chat.PNG" alt="Logo">
+    <img src="readme_imgs/rtchat.PNG" alt="Logo">
 
-- ##### Giving Garden / Social Initiatives
+- #### Giving Garden / Social Initiatives
 
 <p align="center">
     <img src="readme_imgs/giving garden.PNG" alt="Logo">
