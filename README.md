@@ -123,7 +123,7 @@
 
 <br/>
 
-## Deployment :rocket:
+## Deployment 
 
 ### with Heroku at https://uimpactify.herokuapp.com/
 
@@ -179,7 +179,7 @@ This is an example of how to list things you need to use the software and how to
 
 <br/>
 
-## :smile: Memorable Quotes 
+## Memorable Quotes 
 
 > ##### Navinn: This could be done in an hour
 
