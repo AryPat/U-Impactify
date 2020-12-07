@@ -61,6 +61,7 @@
 <p align="center">
     <img src="readme_imgs/about_page.gif" alt="Logo">
 
+<br/>
 
 ### Built With
 
